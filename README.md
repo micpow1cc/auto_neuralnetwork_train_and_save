@@ -45,13 +45,7 @@ This code puts splitted and processed data into variables.
 X_train, X_test, y_train, y_test = model.preprocess_data()
 ```
 
-Train and save models:
-Results
-
-
-
-
-## 
+## Train and save:
 The trained models, along with evaluation metrics, will be saved in separate folders with the following structure:
 
 model_time_<current_time>__f1_<f1_score>/
